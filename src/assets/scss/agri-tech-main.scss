@@ -1,0 +1,79 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+html,body{
+    width:"100%" !important;
+    height:"100%" !important;
+ }
+$primary_1:#00722a;
+
+
+.astarick{
+    color: red;
+}
+.a{
+    color: azure;
+    background-color: blueviolet;
+}
+
+.sidebar-text{
+    text-decoration: none;
+}
+
+.bg-header{
+    background-color: #00722a;
+}
+
+.bg-plot{
+    background-color: #fb6340;
+}
+
+.sidebar-image{
+    width: 13%;
+}
+
+.plotlist-body{
+    width:"100%";
+    height:"100%";
+}
+
+.card-style{
+    background: #FFFFFF;
+    box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.21);
+    border-radius: 6px;
+    }
+td{
+    width: 73px;
+    height: 25px;
+    font-family: 'Oxygen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 15px;
+    
+    color: #222B39;
+}    
+
+.input-style{
+    border-radius: 30px;
+    }
+    h3{
+        font-family: 'Oxygen';
+        font-style: normal;
+    }
+    h1{
+        font-family: 'Oxygen';
+        font-style: normal;
+    }
+    h2{
+        font-family: 'Oxygen';
+        font-style: normal;
+    }
+    th{
+        font-family: 'Oxygen';
+        font-style: normal;
+        color: #222B39;
+         
+    }
+    
+    tbody >tr:hover > td{
+        background-color:#c5ebcb;
+        }
